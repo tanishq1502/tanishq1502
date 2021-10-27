@@ -2,9 +2,6 @@
 
 I am a 20 year old CSE student from Delhi,India doing my bachelors form Chitkara University. I have a passion in Web Development.
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq1502" alt="tanishq1502" /></a>
-<br>
-
 ``
 {
     Name:Tanishq 
