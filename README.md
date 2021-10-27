@@ -21,7 +21,7 @@ Languages / Frameworks:
 * Bootstrap
 * React Js
 
-#Lets Connect
+# Lets Connect
 
 👨‍👨‍👧‍👦 [LinkedIn][LinkedIn] / 📷 [Instagram][Instagram] / 📖 [Github][Github]
 
