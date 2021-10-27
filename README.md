@@ -21,9 +21,16 @@ Languages / Frameworks:
 * Bootstrap
 * React Js
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq1502&show_icons=true&locale=en&theme=radical" alt="tanishq1502" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq1502&theme=radical" alt="tanishq1502" /></p>
+
+
 # Lets Connect
 
 👨‍👨‍👧‍👦 [LinkedIn][LinkedIn] / 📷 [Instagram][Instagram] / 📖 [Github][Github]
+
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)    ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 
 [Github]:https://github.com/tanishq1502
