@@ -1,4 +1,4 @@
-![headingBg](https://github.com/tanishq1502/tanishq1502/blob/master/code.jpg)
+![headingBg](https://github.com/tanishq1502/tanishq1502/blob/main/code.jpg)
 
 I am a 20 year old CSE student from Delhi,India doing my bachelors form Chitkara University. I have a passion in Web Development. 
 
@@ -21,7 +21,7 @@ Languages / Frameworks:
 * Bootstrap
 * React Js
 
-###Lets Connect
+#Lets Connect
 
 👨‍👨‍👧‍👦 [LinkedIn][LinkedIn] / 📷 [Instagram][Instagram] / 📖 [Github][Github]
 
