@@ -1,5 +1,3 @@
-![headingBg](https://github.com/tanishq1502/tanishq1502/blob/main/code.jpg)
-
 # Hi there, I'm Tanishq 👋
 
 I'm a frontend developer at EbixCash, passionate about crafting engaging web experiences. Currently based in Delhi, India. 
